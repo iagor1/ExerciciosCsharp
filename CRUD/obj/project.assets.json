@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\iagor.luchesi\\.nuget\\packages\\": {}
+    "C:\\Users\\iagor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iagor.luchesi\\Documents\\Dev\\CRUD\\CRUD\\CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\iagor\\source\\repos\\ExerciciosCsharp\\CRUD\\CRUD.csproj",
       "projectName": "CRUD",
-      "projectPath": "C:\\Users\\iagor.luchesi\\Documents\\Dev\\CRUD\\CRUD\\CRUD.csproj",
-      "packagesPath": "C:\\Users\\iagor.luchesi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iagor.luchesi\\Documents\\Dev\\CRUD\\CRUD\\obj\\",
+      "projectPath": "C:\\Users\\iagor\\source\\repos\\ExerciciosCsharp\\CRUD\\CRUD.csproj",
+      "packagesPath": "C:\\Users\\iagor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iagor\\source\\repos\\ExerciciosCsharp\\CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iagor.luchesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
